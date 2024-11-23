@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int num1 = 22;
-        int num2 = 22;
-        System.out.println(num1 + num2);
+        int age = 22, matricNum = 2233;
+        String name = "My name is Makinde Williams",
+        System.out.println(name + " " + ",I am" + age + " " + "years old")
     }
 }
